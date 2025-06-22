@@ -1,0 +1,969 @@
+{
+  "metadata": {
+    "totalRecords": 120,
+    "pagesScraped": 3,
+    "scrapedAt": "2025-06-22T15:54:32.359Z"
+  },
+  "data": [
+    {
+      "name": "Leggy™ Wei Elastic Sunray Pleated Palazzo Pants",
+      "price": "S$ 79.00",
+      "productUrl": "https://www.lovebonito.com/sg/leggytm-wei-elastic-sunray-pleated-palazzo-pants-11f5030030.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11f5030030-3.jpg",
+      "rating": "4.61",
+      "numberOfRatings": "18"
+    },
+    {
+      "name": "Yohan Textured Knit Cardigan",
+      "price": "S$ 65.00",
+      "productUrl": "https://www.lovebonito.com/sg/yohan-textured-knit-cardigan-11o5030016.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11o5030016-1.jpg",
+      "rating": "4.85",
+      "numberOfRatings": "13"
+    },
+    {
+      "name": "Wei Sunray Pleated Trapeze Shell Top",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/wei-sunray-pleated-trapeze-shell-top-11c5030380.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5030380-1.jpg",
+      "rating": "4.91",
+      "numberOfRatings": "11"
+    },
+    {
+      "name": "RuchedReady® Ada V-neck Satin Wrap Blouse",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/ruchedreadyr-ada-v-neck-satin-wrap-blouse-11c5030005.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5030005-1_1.jpg",
+      "rating": "4.8",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "Moira Detachable Tailored Vest Top",
+      "price": "S$ 65.00",
+      "productUrl": "https://www.lovebonito.com/sg/moira-detachable-tailored-vest-top-11c5030004.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5030004-1_axyj0mbmhnwyszrk.jpg",
+      "rating": "4.82",
+      "numberOfRatings": "17"
+    },
+    {
+      "name": "Tweed Smocked Tunic Tube Top",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/tweed-smocked-tunic-tube-top-31c5050476.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c5050476-1_lguesv7aedbwoqyu.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Huan Mock Neck Knit Top",
+      "price": "S$ 35.00",
+      "productUrl": "https://www.lovebonito.com/sg/huan-mock-neck-knit-top-21c5030010.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21c5030010-014-3.jpg",
+      "rating": "5",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "Elastic Tweed A-Line Mini Skirt",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/elastic-tweed-a-line-mini-skirt-31i5050480.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31i5050480-004-4.jpg",
+      "rating": "4",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "Suki Denim Slim Illusion Straight Leg Jeans",
+      "price": "S$ 65.00",
+      "productUrl": "https://www.lovebonito.com/sg/suki-denim-slim-illusion-straight-leg-jeans-21g5030092.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21g5030092-1_q3fuvlua6r5akamf.jpg",
+      "rating": "5",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "Leggy™ Yuna Super High Waist Tailored Pants",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/leggytm-yuna-super-high-waist-tailored-pants-11f4030066.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11f4030066-1_1.jpg",
+      "rating": "4.71",
+      "numberOfRatings": "115"
+    },
+    {
+      "name": "RuchedReady® Aera Slim Blazer",
+      "price": "S$ 99.00",
+      "productUrl": "https://www.lovebonito.com/sg/ruchedreadyr-aera-slim-blazer-11n4090286.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11n4090286-1_3.jpg",
+      "rating": "4.6",
+      "numberOfRatings": "15"
+    },
+    {
+      "name": "Yuki Classic Denim Shorts",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/yuki-classic-denim-shorts-21h4030006.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21h4030006-1_fdn6spfef99an7o9.jpg",
+      "rating": "4.54",
+      "numberOfRatings": "74"
+    },
+    {
+      "name": "Reyna Classic Shift Mini Dress",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/reyna-classic-shift-mini-dress-11k4090314.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k4090314-025_u95rqtxchp6aurf8_1.jpg",
+      "rating": "4.11",
+      "numberOfRatings": "9"
+    },
+    {
+      "name": "Padma Textured Round Neck Long Vest Top",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/padma-textured-round-neck-long-vest-top-11c5060422.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5060422-2_7c7rphxgqoigptkq.jpg",
+      "rating": "4.63",
+      "numberOfRatings": "19"
+    },
+    {
+      "name": "Rani Textured Button Down Shift Mini Dress",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/rani-textured-button-down-shift-mini-dress-11k5060223.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5060223-2_frwd09sd9hlvtwdb.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Sitti Belted A-Line Mini Dress",
+      "price": "S$ 65.00",
+      "productUrl": "https://www.lovebonito.com/sg/sitti-belted-a-line-mini-dress-11k5060559.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5060559-1_brjefbdd8vw14cfh.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Sofi V-neck Top",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/sofi-v-neck-top-11c5060421.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5060421-1_plxgdp7cfpczpyhz.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Yina Cross Over Top",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/yina-cross-over-top-11c5060423.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5060423-1_2ifnxdzlvqavbots.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Wei Sunray Pleated Toga Top",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/wei-sunray-pleated-toga-top-11c5060237.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5060237-1_qaawvnobm3zrwtgd.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Mei Elastic High Slit Column Midi Skirt",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/mei-elastic-high-slit-column-midi-skirt-11i5060557.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11i5060557-1_kouwxxq6ignrmtvz.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "PETITE Leggy™ Pvara Textured Flare Pants",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/leggytm-pvara-petite-textured-flare-pants-11f5060589.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11f5060589-1_xkgef6zskbtpwrsh.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Sammie Boxy Button Down Crop Top",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/sammie-boxy-button-down-crop-top-11c5060342.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5060342-1_tihs82er3nef3j16.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Ling Belted Boat Neck Fit & Flare Midaxi Dress",
+      "price": "S$ 89.00",
+      "productUrl": "https://www.lovebonito.com/sg/ling-belted-boat-neck-fit-flare-midaxi-dress-11k5060417.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5060417-1_ai9edtpccw0yjr0v.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Noa Relaxed Textured Shoulder Padded Vest",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/noa-relaxed-textured-shoulder-padded-vest-11n5060224.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11n5060224-3.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "PETITE Leggy™ Yuna Super High Waist Tailored Pants",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/petite-leggytm-yuna-super-high-waist-tailored-pants-11f5060682.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11f5060682-1_qejlyj0wdkbtlqce.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Leggy™ Pvara Textured Flare Pants",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/leggytm-pvara-textured-flare-pants-11f5060415.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11f5060415-1_lavg2y9lx2ry20yo.jpg",
+      "rating": "4.57",
+      "numberOfRatings": "7"
+    },
+    {
+      "name": "PETITE Leggy™ Wei Elastic Sunray Pleated Palazzo Pants",
+      "price": "S$ 79.00",
+      "productUrl": "https://www.lovebonito.com/sg/petite-leggytm-wei-elastic-sunray-pleated-palazzo-pants-11f5060683.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11f5060683-1_jzbnkbws5v34xvrz.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Frankie Textured Classic Bermuda Shorts",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/frankie-textured-classic-bermuda-shorts-11h5060225.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11h5060225-3.jpg",
+      "rating": "5",
+      "numberOfRatings": "9"
+    },
+    {
+      "name": "Kate High Waist Pintuck Flare Maxi Skirt",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/kate-high-waist-pintuck-flare-maxi-skirt-11i5060232.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11i5060232-1_quy96nboubssx5pn.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Trinh Pintuck Plunge Fit & Flare Midaxi Dress",
+      "price": "S$ 79.00",
+      "productUrl": "https://www.lovebonito.com/sg/trinh-pintuck-plunge-fit-flare-midaxi-dress-11k5060550.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5060550-1_x2ieligxhv9qvhte.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Ling Textured Belted Blazer Top",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/ling-textured-belted-blazer-top-11c5060536.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5060536-1_3kjrzenkyf1nogjs.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Dana Relaxed V-neck Shirt",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/dana-relaxed-v-neck-shirt-11a5060234.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11a5060234-1_o8yimsza64lqyzww.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Casey Textured Boxy Crop Shirt",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/casey-textured-boxy-crop-shirt-11a5060295.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11a5060295-1_ulddncyojfvgiyao.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Chalita Pintuck Camisole Trapeze Midaxi Dress",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/chalita-pintuck-camisole-trapeze-midaxi-dress-11k5060424.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5060424-1_0cslwhm707mhurk2.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Leggy™ Kanda Asymmetric Flare Jumpsuit",
+      "price": "S$ 79.00",
+      "productUrl": "https://www.lovebonito.com/sg/leggytm-kanda-asymmetric-flare-jumpsuit-11l5060236.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11l5060236-2_1llnbqjy5immj5vy.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "PETITE Leggy™ Seva Textured Super High Waist Straight Leg Pants",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/leggytm-seva-petite-textured-super-high-waist-straight-leg-pants-11f5060560.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11f5060560-1_sq0pqjmiffwzm3ds.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "RuchedReady® Rachel Summer Textured Blazer",
+      "price": "S$ 99.00",
+      "productUrl": "https://www.lovebonito.com/sg/ruchedreadyr-rachel-summer-textured-blazer-11n5060414.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11n5060414-106-7.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Leggy™ Seva Textured Super High Waist Straight Leg Pants",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/leggytm-seva-textured-super-high-waist-straight-leg-pants-11f5060222.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11f5060222-106-5.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Tola Knit Cross Back Tank Top",
+      "price": "S$ 29.00",
+      "productUrl": "https://www.lovebonito.com/sg/tola-knit-cross-back-tank-top-21c5060239.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21c5060239-3.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Parker Panelled Straight Leg Jeans",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/parker-panelled-straight-leg-jeans-21g5060382.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21g5060382-1_iab4hekwfwa79wmp.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Myeong Sheer Front Tie Cardigan",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/myeong-sheer-front-tie-cardigan-21o5060767.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21o5060767-2_mazivyium8b6jtou.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Mutya Knit Ballerina Peplum Top",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/mutya-knit-ballerina-peplum-top-11c5060543.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5060543-1_diwk2px2mnisr8sb.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Min Padded Multi-way Camisole Top",
+      "price": "S$ 35.00",
+      "productUrl": "https://www.lovebonito.com/sg/min-padded-multi-way-camisole-top-21b5060106.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21b5060106-1_1bxgcvawchqewvyf.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Aika Lightweight Tailored Button Down Vest Top",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/aika-lightweight-tailored-button-down-vest-top-11c5030198.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5030198-1_1.jpg",
+      "rating": "4.68",
+      "numberOfRatings": "28"
+    },
+    {
+      "name": "Yuna Relaxed V-neck Vest",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/yuna-relaxed-v-neck-vest-11c4090786.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c4090786-1_bq3sequlzlwomeaz.jpg",
+      "rating": "4.74",
+      "numberOfRatings": "34"
+    },
+    {
+      "name": "Leggy™ Moira Regular Super High Waist Straight Leg Pants",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/leggytm-moira-regular-super-high-waist-straight-leg-pants-11f5030036.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11f5030036-169-3.jpg",
+      "rating": "4.74",
+      "numberOfRatings": "27"
+    },
+    {
+      "name": "Vera Elastic Reversible Panelled Midi Skirt",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/vera-elastic-reversible-panelled-midi-skirt-11i5030022.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11i5030022-2_1ovc8ouhgnv0kzmz.jpg",
+      "rating": "4.36",
+      "numberOfRatings": "11"
+    },
+    {
+      "name": "Seamless Boyleg Shorts",
+      "price": "S$ 15.00",
+      "productUrl": "https://www.lovebonito.com/sg/seamless-boyleg-shorts-35y4101246.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/5/35y4101246-2.jpg",
+      "rating": "5",
+      "numberOfRatings": "6"
+    },
+    {
+      "name": "RuchedReady® Fumiko Ribbon Tweed Crop Jacket",
+      "price": "S$ 89.00",
+      "productUrl": "https://www.lovebonito.com/sg/ruchedreadyr-fumiko-ribbon-tweed-crop-jacket-11n5030102.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11n5030102-437.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Reina Padded Ballerina Midi Dress",
+      "price": "S$ 79.00",
+      "productUrl": "https://www.lovebonito.com/sg/reina-padded-ballerina-midi-dress-11k5030294.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5030294-1_dl8tsizhj5ie73gj.jpg",
+      "rating": "4.65",
+      "numberOfRatings": "17"
+    },
+    {
+      "name": "Willa Reversible Sunray Pleated Midaxi Dress",
+      "price": "S$ 85.00",
+      "productUrl": "https://www.lovebonito.com/sg/willa-reversible-sunray-pleated-midaxi-dress-11k5030031.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5030031-1_mndtskedeqru8vxo.jpg",
+      "rating": "3.8",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "Sana High Waist Fray Denim Shorts",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/sana-high-waist-fray-denim-shorts-21h5030098.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21h5030098-1_wynwzdzpdmkiinoq.jpg",
+      "rating": "4.43",
+      "numberOfRatings": "7"
+    },
+    {
+      "name": "Amy Satin Pleated Top",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/amy-satin-pleated-top-11c5030013.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5030013-441.jpg",
+      "rating": "4.4",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "Yun Boxy Knit Vest",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/yun-boxy-knit-vest-11n5030015.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11n5030015-1_1.jpg",
+      "rating": "4.89",
+      "numberOfRatings": "9"
+    },
+    {
+      "name": "Yoko Boxy Textured Knit Top",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/yoko-boxy-textured-knit-top-11c5030026.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5030026-1.jpg",
+      "rating": "4.86",
+      "numberOfRatings": "14"
+    },
+    {
+      "name": "Fran Notched Ribbon Tweed Shift Mini Dress",
+      "price": "S$ 79.00",
+      "productUrl": "https://www.lovebonito.com/sg/fran-notched-ribbon-tweed-shift-mini-dress-11k5030100.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5030100-2.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Fumiko Ribbon Tweed Vest Top",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/fumiko-ribbon-tweed-vest-top-11c5030101.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5030101-1_ial4vmlb4u2gq6jh.jpg",
+      "rating": "4.9",
+      "numberOfRatings": "10"
+    },
+    {
+      "name": "Hera Classic Panelled A-line Mini Dress",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/hera-classic-panelled-a-line-mini-dress-11k5030023.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5030023-1_r0imhuigbgvjq0mc.jpg",
+      "rating": "5",
+      "numberOfRatings": "6"
+    },
+    {
+      "name": "Aika Lightweight Elastic Pleated Tailored Shorts",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/aika-lightweight-elastic-pleated-tailored-shorts-11h5030043.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11h5030043-025-2.jpg",
+      "rating": "4.89",
+      "numberOfRatings": "18"
+    },
+    {
+      "name": "Neoprene Boat Neck Shift Midaxi Dress",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/neoprene-boat-neck-shift-midaxi-dress-31k4110770.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k4110770-2_23ihqlgp6kj620cm.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Yara Classic Knit Bodycon Midi Dress",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/yara-classic-knit-bodycon-midi-dress-11k5030024.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5030024-1_1.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "RuchedReady® Aika Lightweight Classic Shoulder Padded Blazer",
+      "price": "S$ 99.00",
+      "productUrl": "https://www.lovebonito.com/sg/ruchedreadyr-aika-lightweight-classic-shoulder-padded-blazer-11n5030197.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11n5030197-1_2.jpg",
+      "rating": "5",
+      "numberOfRatings": "10"
+    },
+    {
+      "name": "Fumiko Ribbon Tweed High Waist Shorts",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/fumiko-ribbon-tweed-high-waist-shorts-11h5030401.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11h5030401-1.jpg",
+      "rating": "5",
+      "numberOfRatings": "6"
+    },
+    {
+      "name": "Willow Classic Tailored Shorts",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/willow-classic-tailored-shorts-21h4030007.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21h4030007-1.jpg",
+      "rating": "4.87",
+      "numberOfRatings": "62"
+    },
+    {
+      "name": "Neoprene High Waist Column Midaxi Skirt",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/neoprene-high-waist-column-midaxi-skirt-31i4110772.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31i4110772-1.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Yoko Elastic Textured Knit Midi Skirt",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/yoko-elastic-textured-knit-midi-skirt-11i5030027.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11i5030027-2_p2ba5hbipe4xidlb.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Amala Multi-way Drape Top",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/amala-multi-way-drape-top-11c5030009.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11c5030009-1_j4eocdofwzqjibfz.jpg",
+      "rating": "4.67",
+      "numberOfRatings": "18"
+    },
+    {
+      "name": "Leggy™ Elastic Tweed High Waist Kick Flare Pants",
+      "price": "S$ 79.00",
+      "productUrl": "https://www.lovebonito.com/sg/leggytm-elastic-tweed-high-waist-kick-flare-pants-31f5050657.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31f5050657-1_sbycp7iaanty3aqr.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Kamil Contour Knit Fit & Flare Mini Dress",
+      "price": "S$ 65.00",
+      "productUrl": "https://www.lovebonito.com/sg/kamil-contour-knit-fit-flare-mini-dress-11k4090308.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k4090308-1_jmeojabczevtnlpj.jpg",
+      "rating": "4.33",
+      "numberOfRatings": "6"
+    },
+    {
+      "name": "Mara Padded Panelled A-line Maxi Dress",
+      "price": "S$ 89.00",
+      "productUrl": "https://www.lovebonito.com/sg/mara-padded-panelled-a-line-maxi-dress-11k5030038.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5030038-014_1_.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Elastic High Waist A-line Maxi Skirt",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/elastic-high-waist-a-line-maxi-skirt-31i5050434.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31i5050434-1_chp7xc4iev5flddv.jpg",
+      "rating": "5",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "Eun V-neck Wrap Column Midi Dress",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/eun-v-neck-wrap-column-midi-dress-11k5030110.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5030110-1.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Jersey Round Neck Drop Waist Trapeze Midaxi Dress",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/jersey-round-neck-drop-waist-trapeze-midaxi-dress-31k5010171.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k5010171-366-2.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Relaxed Collared Knit Top",
+      "price": "S$ 39.00",
+      "productUrl": "https://www.lovebonito.com/sg/relaxed-collared-knit-top-31c4110744.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c4110744-1_aocedf9zxjnc8p01.jpg",
+      "rating": "5",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "Round Neck Fit & Flare Midaxi Dress",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/round-neck-fit-flare-midaxi-dress-31k4110768.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k4110768-1.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Amala Multi-way Drape Midi Dress",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/amala-multi-way-drape-midi-dress-11k5030001.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5030001-042-3.jpg",
+      "rating": "4.82",
+      "numberOfRatings": "17"
+    },
+    {
+      "name": "Chambray Flare Maxi Skirt",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/chambray-flare-maxi-skirt-31i5040381.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31i5040381-1_hoxqigxvejyn3ui0.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Tweed V-Neck Boxy Crop Vest",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/tweed-v-neck-boxy-crop-vest-31n5050460.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31n5050460-1_xyizi8qqws76oy6g.jpg",
+      "rating": "4.8",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "Broderie Puff Sleeve Trapeze Maxi Dress",
+      "price": "S$ 119.00",
+      "productUrl": "https://www.lovebonito.com/sg/broderie-puff-sleeve-trapeze-maxi-dress-31k5050451.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k5050451-031-2.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Detachable Sash Sweetheart Fit & Flare Midi Dress",
+      "price": "S$ 85.00",
+      "productUrl": "https://www.lovebonito.com/sg/detachable-sash-sweetheart-fit-flare-midi-dress-31k5050478.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k5050478-014-4.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Off Shoulder Peplum Top in Tidal Blooms",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/off-shoulder-peplum-top-in-tidal-blooms-31c5040378.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c5040378-2_5gn6scpbf5lqhbxk.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Striped Linen Halter Top",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/striped-linen-halter-top-31c5040546.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c5040546-2_ezbacagmjjxdvpm7.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Round Neck Crop Top",
+      "price": "S$ 39.00",
+      "productUrl": "https://www.lovebonito.com/sg/round-neck-crop-top-31c4120920.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c4120920-1_hmqiokc7vqlpgbd0.jpg",
+      "rating": "4.59",
+      "numberOfRatings": "17"
+    },
+    {
+      "name": "RuchedReady® Moira Belted Collarless Blazer",
+      "price": "S$ 99.00",
+      "productUrl": "https://www.lovebonito.com/sg/ruchedreadyr-moira-belted-collarless-blazer-11n5030040.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11n5030040-2.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Denim Scoop Neck Midi Dress",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/denim-scoop-neck-midi-dress-31k5070662.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k5070662-1_bfvffov2gmszpgbj.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Knit Puff Sleeve Cardigan",
+      "price": "S$ 65.00",
+      "productUrl": "https://www.lovebonito.com/sg/knit-puff-sleeve-cardigan-31o5050444.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31o5050444-1_jlgckp7aqc24twyt.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Denim Medium Rise Shorts",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/denim-medium-rise-shorts-31h5070562.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31h5070562-1_wam3mmdhsbi1x5gs.jpg",
+      "rating": "5",
+      "numberOfRatings": "5"
+    },
+    {
+      "name": "High Waist Mini Skirt",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/high-waist-mini-skirt-31i4120950.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31i4120950-1_bpxdh7q80knl8pz6.jpg",
+      "rating": "4.57",
+      "numberOfRatings": "7"
+    },
+    {
+      "name": "Round Neck Puff Sleeve Top",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/sheer-round-neck-puff-sleeve-top-31c4120964.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c4120964-1_jmcgso9p2u1zkerh.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Silicone Nipple Covers",
+      "price": "S$ 15.00",
+      "productUrl": "https://www.lovebonito.com/sg/silicone-nipple-covers-35y4071081.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/5/35y4071081-1_fibuhuxlc7g1yxjt.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Jersey V-neck Top",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/jersey-v-neck-top-31c5050483.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c5050483-1_xby9gq9360cj8pis.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Crinkled Polka Dot Crop Shell Top",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/crinkled-polka-dot-crop-shell-top-31c5040545.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c5040545-1_v25hnkzhrlzomlm2.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Denim Scoop Neck Peplum Top",
+      "price": "S$ 49.00",
+      "productUrl": "https://www.lovebonito.com/sg/denim-scoop-neck-peplum-top-31c5070663.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c5070663-1_oy6uvob7vocsv3lf.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Hui Padded Scoop Neck Tank Top",
+      "price": "S$ 39.00",
+      "productUrl": "https://www.lovebonito.com/sg/hui-padded-scoop-neck-tank-top-21b5030195.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21b5030195-1_njtsvnqxjup7yeim.jpg",
+      "rating": "4.45",
+      "numberOfRatings": "22"
+    },
+    {
+      "name": "Relaxed Chambray Drop Shoulder Blouse",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/relaxed-chambray-drop-shoulder-blouse-31a5040374.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31a5040374-1_cdqp0vnioxsge33t.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Zanna Detachable Collar Tweed Jacket",
+      "price": "S$ 99.00",
+      "productUrl": "https://www.lovebonito.com/sg/zanna-detachable-collar-tweed-jacket-11n4090285.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11n4090285-1_xhtn3vawv6kawpmv.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Scoop Neck Shift Mini Dress",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/reversible-boat-neck-shift-mini-dress-31k4110745.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k4110745-1_ontdqfxbrkmxqvuf.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Padded Crinkled Polka Dot Crop Camisole Top",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/padded-crinkled-polka-dot-crop-camisole-top-31b5020406.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31b5020406-1_dustru6oh8giksql.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Rhinestone Charm Necklace",
+      "price": "S$ 35.00",
+      "productUrl": "https://www.lovebonito.com/sg/rhinestone-charm-necklace-32s5041147.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/2/32s5041147-1_mfe5aw7vpflnrdfb.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Knit Scoop Neck Top",
+      "price": "S$ 39.00",
+      "productUrl": "https://www.lovebonito.com/sg/knit-scoop-neck-top-31c4111067.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c4111067-1_de1hew92jjqvp587.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Pearl Dangling Hoop Earrings",
+      "price": "S$ 29.00",
+      "productUrl": "https://www.lovebonito.com/sg/pearl-dangling-hoop-earrings-32s5041145.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/2/32s5041145-1_huebw8asyjxyl37d.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Belted High Waist Shorts",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/belted-high-waist-shorts-31h5050671.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31h5050671-1_xt8rmqzfbvgh1aas.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Mai Denim Barrel Jeans",
+      "price": "S$ 65.00",
+      "productUrl": "https://www.lovebonito.com/sg/mai-denim-barrel-jeans-21g5030192.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/2/1/21g5030192-2.jpg",
+      "rating": "4.62",
+      "numberOfRatings": "8"
+    },
+    {
+      "name": "Wei Elastic Sunray Pleated Midaxi Skirt",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/wei-elastic-sunray-pleated-midaxi-skirt-11i5030200.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11i5030200-1.jpg",
+      "rating": "4.89",
+      "numberOfRatings": "38"
+    },
+    {
+      "name": "Conch Shell Layered Necklace",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/conch-shell-layered-necklace-32s5041148.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/2/32s5041148-1_gkrrgp1slhdhidqf.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Pleated High Waist Column Midi Skirt",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/pleated-high-waist-column-midi-skirt-31i4120982.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31i4120982-1_meeieodho77hh6wq.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Silicone-based Stick-On Bra",
+      "price": "S$ 25.00",
+      "productUrl": "https://www.lovebonito.com/sg/silicone-based-stick-on-bra-35y4071083.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/5/35y4071083-1_jolbh3thjnmgxllj.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Round Neck Scallop Front Tie Top",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/round-neck-scallop-front-tie-top-31c5050458.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c5050458-2_ddvje7ydyhizf1vu.jpg",
+      "rating": "4.43",
+      "numberOfRatings": "7"
+    },
+    {
+      "name": "RuchedReady® Relaxed Poplin V-neck Blouse",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/ruchedreadyr-relaxed-poplin-v-neck-blouse-31a5010173.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31a5010173-1.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Clamshell Earrings",
+      "price": "S$ 19.00",
+      "productUrl": "https://www.lovebonito.com/sg/clamshell-earrings-32s5041143.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/2/32s5041143-1_yyi4ucza4xjy6xze.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Round Neck Batwing Tunic Top",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/round-neck-batwing-tunic-top-31c5020246.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31c5020246-1_1_1.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Jersey V-neck Fit & Flare Midi Dress",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/jersey-v-neck-fit-flare-midi-dress-31k5050482.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k5050482-1_cufbcfqb1yfdxn2c.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "V-neck Peplum Camisole Top",
+      "price": "S$ 45.00",
+      "productUrl": "https://www.lovebonito.com/sg/v-neck-peplum-camisole-top-31b5050455.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31b5050455-1_5tfrawjwc8lkaxh8.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Pearl Drop Earrings",
+      "price": "S$ 25.00",
+      "productUrl": "https://www.lovebonito.com/sg/pearl-drop-earrings-32s5041144.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/2/32s5041144-1_flugvubwirli3boi.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Zhu Belted V-neck Fit and Flare Midi Dress",
+      "price": "S$ 75.00",
+      "productUrl": "https://www.lovebonito.com/sg/zhu-belted-v-neck-fit-and-flare-midi-dress-11k5030233.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11k5030233-1_nvnnxghab1dok02i.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Love Bonito x AAGC Limited-edition RuchedReady® Rachel Blazer (in Black)",
+      "price": "S$ 99.00",
+      "productUrl": "https://www.lovebonito.com/sg/love-bonito-x-aagc-limited-edition-ruchedreadyr-rachel-blazer-in-black-11n5030807.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/1/1/11n5030807-1.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Belted Collared Romper",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/belted-collared-romper-31l5050456.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31l5050456-1.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Tweed Round Neck Shift Mini Dress",
+      "price": "S$ 59.00",
+      "productUrl": "https://www.lovebonito.com/sg/tweed-round-neck-shift-mini-dress-31k5050441.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k5050441-2_upkf043hovw81we1.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Love Bonito x cheak High Waist Cheeky Bikini Bottom",
+      "price": "S$ 55.00",
+      "productUrl": "https://www.lovebonito.com/sg/love-bonito-x-cheak-high-waist-cheeky-bikini-bottom-41r5040586.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/4/1/41r5040586-1_fxg0bqp9ljjjtixq.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    },
+    {
+      "name": "Tencel V-neck Fit & Flare Midi Dress",
+      "price": "S$ 69.00",
+      "productUrl": "https://www.lovebonito.com/sg/tencel-v-neck-fit-flare-midi-dress-31k4111013.html",
+      "imageUrl": "https://www.lovebonito.com/cdn-cgi/image/width=275,quality=75,format=webp/https://public-images-for-media.s3.ap-southeast-1.amazonaws.com/media/catalog/product/3/1/31k4111013-1_zedwex2oxh3kwprd.jpg",
+      "rating": "",
+      "numberOfRatings": ""
+    }
+  ]
+}
